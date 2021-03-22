@@ -1,0 +1,187 @@
+default
+default
+default
+catalina-light
+catalina-light
+catalina-night
+catalina-night
+catalina-night
+cliffs
+cliffs
+cliffs
+cliffs-dark
+cliffs-dark
+cliffs-dark
+cliffs-day
+cliffs-day
+cliffs-day
+cliffs-light
+cliffs-light
+cliffs-light
+cliffs-night
+cliffs-night
+cliffs-night
+dark
+dark
+dark
+dark-2
+dark-2
+dark-2
+desert
+desert
+desert
+desert-dark
+desert-dark
+desert-dark
+desert-day
+desert-day
+desert-day
+desert-light
+desert-light
+desert-light
+desert-night
+desert-night
+desert-night
+dome
+dome
+dome
+dome-dark
+dome-dark
+dome-dark
+dome-day
+dome-day
+dome-day
+dome-light
+dome-light
+dome-light
+dome-night
+dome-night
+dome-night
+graphic
+graphic
+graphic
+iridescence
+iridescence
+iridescence
+iridescence-dark
+iridescence-dark
+iridescence-dark
+iridescence-dark-2
+iridescence-dark-2
+iridescence-dark-2
+iridescence-light
+iridescence-light
+iridescence-light
+iridescence-light-2
+iridescence-light-2
+iridescence-light-2
+lake
+lake
+lake
+lake-dark
+lake-dark
+lake-dark
+lake-day
+lake-day
+lake-day
+lake-light
+lake-light
+lake-light
+lake-night
+lake-night
+lake-night
+light
+light
+light
+light-2
+light-2
+light-2
+peak
+peak
+peak
+peak-dark
+peak-dark
+peak-dark
+peak-day
+peak-day
+peak-day
+peak-light
+peak-light
+peak-light
+peak-night
+peak-night
+peak-night
+solar
+solar
+solar
+tree
+tree
+tree
+tree-dark
+tree-dark
+tree-dark
+tree-day
+tree-day
+tree-day
+tree-light
+tree-light
+tree-light
+tree-night
+tree-night
+tree-night
+valley
+valley
+valley
+valley-dark
+valley-dark
+valley-dark
+valley-day
+valley-day
+valley-day
+valley-light
+valley-light
+valley-light
+valley-night
+valley-night
+valley-night
+/System/Library/Desktop Pictures/Big Sur Aerial.heic
+/System/Library/Desktop Pictures/Big Sur Coastline.heic
+/System/Library/Desktop Pictures/Big Sur Horizon.heic
+/System/Library/Desktop Pictures/Big Sur Mountains.heic
+/System/Library/Desktop Pictures/Big Sur Night Grasses.heic
+/System/Library/Desktop Pictures/Big Sur Night Succulents.heic
+/System/Library/Desktop Pictures/Big Sur Road.heic
+/System/Library/Desktop Pictures/Big Sur Shore Rocks.heic
+/System/Library/Desktop Pictures/Big Sur Waters Edge.heic
+/System/Library/Desktop Pictures/Catalina Clouds.heic
+/System/Library/Desktop Pictures/Catalina Coast.heic
+/System/Library/Desktop Pictures/Catalina Evening.heic
+/System/Library/Desktop Pictures/Catalina Rock.heic
+/System/Library/Desktop Pictures/Catalina Shoreline.heic
+/System/Library/Desktop Pictures/Catalina Silhouette.heic
+/System/Library/Desktop Pictures/Catalina Sunset.heic
+/System/Library/Desktop Pictures/Light Stream Blue.heic
+/System/Library/Desktop Pictures/Light Stream Red.heic
+/System/Library/Desktop Pictures/Reflection 1.jpg
+/System/Library/Desktop Pictures/Reflection 2.jpg
+/System/Library/Desktop Pictures/Reflection 3.jpg
+/System/Library/Desktop Pictures/Reflection 4.jpg
+/System/Library/Desktop Pictures/Solid Colors/Black.png
+/System/Library/Desktop Pictures/Solid Colors/Blue Violet.png
+/System/Library/Desktop Pictures/Solid Colors/Cyan.png
+/System/Library/Desktop Pictures/Solid Colors/Dusty Rose.png
+/System/Library/Desktop Pictures/Solid Colors/Electric Blue.png
+/System/Library/Desktop Pictures/Solid Colors/Gold 2.png
+/System/Library/Desktop Pictures/Solid Colors/Gold.png
+/System/Library/Desktop Pictures/Solid Colors/Ocher.png
+/System/Library/Desktop Pictures/Solid Colors/Plum.png
+/System/Library/Desktop Pictures/Solid Colors/Red Orange.png
+/System/Library/Desktop Pictures/Solid Colors/Rose Gold.png
+/System/Library/Desktop Pictures/Solid Colors/Silver.png
+/System/Library/Desktop Pictures/Solid Colors/Soft Pink.png
+/System/Library/Desktop Pictures/Solid Colors/Space Gray Pro.png
+/System/Library/Desktop Pictures/Solid Colors/Space Gray.png
+/System/Library/Desktop Pictures/Solid Colors/Stone.png
+/System/Library/Desktop Pictures/Solid Colors/Teal.png
+/System/Library/Desktop Pictures/Solid Colors/Turquoise Green.png
+/System/Library/Desktop Pictures/Solid Colors/Yellow.png
