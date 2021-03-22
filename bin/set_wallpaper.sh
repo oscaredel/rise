@@ -14,12 +14,12 @@ curl 'http://electro.ntsomz.ru/electro/download' \
 -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' \
 -H 'Upgrade-Insecure-Requests: 1' \
 -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15' \
---data 'fullimage=60' --output ../images/input/latest_full_image.png
+--data 'fullimage=60' --output ../images/latest_full_image.png
 
 echo '---'
 echo 'Converting image'
 
-convert ../images/input/latest_full_image.png \
+convert ../images/latest_full_image.png \
   -fuzz 5% \
   -resize 7000x7000 \
   -trim \
@@ -27,7 +27,7 @@ convert ../images/input/latest_full_image.png \
   -vignette 0x0+20+20 \
   -gravity NorthEast \
   -crop 3100x1950+500+0 \
-  ../images/output/europe.png
+  ../images/europe.png
 
 set_wallpaper(){
   cd ../macos-desktop
@@ -35,4 +35,4 @@ set_wallpaper(){
 }
 
 echo 'Setting wallpaper'
-set_wallpaper /Users/oscaredel/code/oscaredel/rise/images/output/europe.png
+set_wallpaper /Users/oscaredel/code/oscaredel/rise/images/europe.png
